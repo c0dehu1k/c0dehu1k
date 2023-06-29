@@ -2,10 +2,10 @@
 🔭 I’m currently working on K8s, Go, Python<br>
 👯 I’m looking to collaborate on CNCF, Automation, DevOps<br>
 🤝 I’m looking for help with Open Source Contribution<br>
-🌱 I’m currently learning Go and Kubernetes Internals<br>
+🌱 I’m currently learning Go, Kubernetes and docker Internals, CNCF <br>
 💬 Ask me about Automation, DevOps<br> 
 🏠 Based in New Delhi, India <br>
-⏰ Timezone ❄ IST (UTC +5:30) <br>
+⏰ Timezone: IST (UTC +5:30) <br>
 🍵 Yes, please! <br>
 
 
