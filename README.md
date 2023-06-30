@@ -8,6 +8,10 @@
 ⏰ Timezone: IST (UTC +5:30) <br>
 🍵 Yes, please! <br>
 
+## Current Learning/Progress
+![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k)
+![RoadMap..sh Stats] (https://api.roadmap.sh/v1-badge/tall/649bf194d99c9d67319c6282?variant=dark)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/c0dehu1k) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/c0dehu1k) 
