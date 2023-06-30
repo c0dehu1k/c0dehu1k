@@ -8,9 +8,11 @@
 ⏰ Timezone: IST (UTC +5:30) <br>
 🍵 Yes, please! <br>
 
-## Current Learning/Progress
-![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k)
-![RoadMap..sh Stats] (https://api.roadmap.sh/v1-badge/tall/649bf194d99c9d67319c6282?variant=dark)
+
+##  Current Learning/Progress
+![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k) <br>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649bf194d99c9d67319c6282?variant=dark)](https://roadmap.sh)
+
 
 
 ## 🌐 Socials:
