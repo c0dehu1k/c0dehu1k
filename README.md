@@ -8,10 +8,9 @@
 ⏰ Timezone: IST (UTC +5:30) <br>
 🍵 Yes, please! <br>
 
-
 ##  Current Learning/Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649bf194d99c9d67319c6282?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649bf194d99c9d67319c6282?variant=dark&roadmaps=kubernetes%2Cgolang%2Csystem-design%2Cpython)](https://roadmap.sh)
 
 
 
