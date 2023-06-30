@@ -9,8 +9,9 @@
 🍵 Yes, please! <br>
 
 ## 📊 Progress
-![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k) <br>
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649bf194d99c9d67319c6282?variant=dark&roadmaps=kubernetes%2Cgolang%2Csystem-design%2Cpython)](https://roadmap.sh)
+![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649bf194d99c9d67319c6282?variant=dark&roadmaps=golang%2Ckubernetes%2Cpython%2Csystem-design)](https://roadmap.sh)
+
 
 
 ## 🌐 Socials:
