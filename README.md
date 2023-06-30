@@ -10,8 +10,7 @@
 
 ## 📊 Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649bf194d99c9d67319c6282?variant=dark&roadmaps=golang%2Ckubernetes%2Cpython%2Csystem-design)](https://roadmap.sh)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649bf194d99c9d67319c6282?variant=dark&roadmaps=golang%2Ckubernetes%2Cpython%2Csystem-design)](https://roadmap.sh)
 
 
 ## 🌐 Socials:
