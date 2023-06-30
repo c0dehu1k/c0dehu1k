@@ -10,7 +10,7 @@
 
 
 ##  Current Learning/Progress
-![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k) <br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649bf194d99c9d67319c6282?variant=dark)](https://roadmap.sh)
 
 
