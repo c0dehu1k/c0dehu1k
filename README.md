@@ -7,8 +7,6 @@ Hello.. 👋
 🌱 I’m currently learning Go, Kubernetes and Docker Internals, CNCF <br>
 💬 Ask me about Automation, DevOps, GitOps, Python, K8s, Docker, Unix <br> 
 🏠 Based in New Delhi, India <br>
-⏰ Timezone: IST (UTC +5:30) <br>
-🍵 Yes, please! <br>
 
 ## 🏃 Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/c0dehu1k)
