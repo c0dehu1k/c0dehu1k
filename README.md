@@ -5,7 +5,8 @@ Hello.. 👋
 👯 I’m looking to collaborate on CNCF, Automation, DevOps<br>
 🤝 I’m looking for help with Open Source Contribution<br>
 🌱 I’m currently learning Go, Kubernetes and Docker Internals, CNCF <br>
-💬 Ask me about Automation, DevOps, GitOps, Python, K8s, Docker, Unix <br> 
+💬 Ask me about Automation, DevOps, GitOps, K8s, Docker, Unix, Python, Go <br> 
+🎸 Let's Jam Sometime...
 🏠 Based in New Delhi, India <br>
 
 ## 🏃 Progress
