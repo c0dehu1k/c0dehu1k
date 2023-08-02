@@ -6,7 +6,7 @@ Hello.. 👋
 🤝 I’m looking for help with Open Source Contribution<br>
 🌱 I’m currently learning Go, Kubernetes and Docker Internals, CNCF <br>
 💬 Ask me about Automation, DevOps, GitOps, K8s, Docker, Unix, Python, Go <br> 
-🎸 Let's Jam Sometime...
+🎸 Let's Jam Sometime... <br>
 🏠 Based in New Delhi, India <br>
 
 ## 🏃 Progress
