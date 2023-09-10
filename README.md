@@ -13,7 +13,7 @@ I am Sunil.
 🎸 Let's Jam Sometime... <br>
 ♟️ Occassionally spends time with chess....<br>
 👨‍🏫 Vedic Maths teacher and an Site Mantainer for an NGO (https://www.standnstride.org). <br> 
-   Please consider donating for better education of Indian Childrens.
+   Please consider donating for better education of Indian Childrens.<br>
 🏠 Based in New Delhi, India <br>
 
 ## 🏃 Progress
